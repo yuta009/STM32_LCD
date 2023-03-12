@@ -1,0 +1,11 @@
+main.c:64:6:writeCmd	32	static
+main.c:71:6:writeData	32	static
+main.c:78:6:Lcd_init	8	static
+main.c:90:6:LCD_Clear	8	static
+main.c:96:6:LCD_SetCursor	24	static
+main.c:106:6:LCD_Print	16	static
+main.c:118:5:main	8	static
+main.c:167:6:SystemClock_Config	88	static
+main.c:207:13:MX_I2C1_Init	8	static
+main.c:241:13:MX_GPIO_Init	40	static
+main.c:276:6:Error_Handler	4	static
